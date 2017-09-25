@@ -12,9 +12,15 @@
 │ this                       │
 └----------------------------┘
 
-The box item above is representing a variable object that is stacked onto the execution context. When the interpreter of Javascript starts to look all the codes from the top to the very bottom, it creates a excution context when some new semantic code area appears, such as a function.
+The box item above is representing a variable object that is stacked onto the execution context. 
+When the interpreter of Javascript starts to look all the codes from the top to the very bottom, 
+it creates a excution context when some new semantic code area appears, such as a function.
 
-In the variable object, there are 2 variables named a, referring to a function, and b, referring to a variable. If the interpreter meets any variables declared in the code, it hoists those variables to the very top of the scope. As the variable a declared as a fuction with the body part has been hoisted to the top, on the contrast, the variable b, even though it had a value assigned, like 'var b = 1', hasn't carry it to the top. So, b would be going to wait for being assigned a value after.
+In the variable object, there are 2 variables named a, referring to a function, and b, referring to a variable. 
+If the interpreter meets any variables declared in the code, it hoists those variables to the very top of the scope. 
+As the variable a declared as a fuction with the body part has been hoisted to the top, on the contrast, the variable b, 
+even though it had a value assigned, like 'var b = 1', 
+hasn't carry it to the top. So, b would be going to wait for being assigned a value after.
 
 There are few examples of what hoisting really means and how to use them in a code.
 */
@@ -86,6 +92,7 @@ class Vihecle{
 
 /*
 
-Now as you can notice, the best recommended way to declare variables and functions is to declare them before actually use, unless you want to get in trouble after all.
+Now as you can notice, the best recommended way to declare variables and functions is to declare them before actually use, 
+unless you want to get in trouble after all.
 
 */

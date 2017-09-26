@@ -12,7 +12,7 @@ where zero or more arguments or elements are expected.
 /* 
 
 When you want to copy something to an array or a value or something, you might have to
-just assign it with ES5 to a new variable, like the line 18. In ES6, however,
+just assign it with ES5 to a new variable, like the line 23. In ES6, however,
 you can use spread syntax to copy very efficiently with not having any concerns about
 mutable/immutable status of variables.
 

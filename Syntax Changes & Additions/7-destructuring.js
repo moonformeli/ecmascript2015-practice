@@ -4,8 +4,8 @@ Destructuring syntax is the cool way to assign values to variables without takin
 
 You can use either [] or {}, depending on how you want to extract datas from an original source.
 Even Spread syntax can be a useful way, especially, of omitting some variables you don't really want to take from the source.
-If there's a caution, it would be that the names you want to use as a variable must be the same as the ones from the object,
-like line 23. If names are different, datas won't be assigned though they were extracted.
+If there's a caution, it would be that the names you want to use as a variable must be the same as the ones from the object
+in which you want to extract, like line 23. If names are different, datas won't be assigned though they were extracted.
 
 */
 

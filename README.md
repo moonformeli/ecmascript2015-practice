@@ -9,4 +9,5 @@ Syntax Changes & Additions
 
 Symbols & Iterators
 1. Symbol Basic
-2. Iterators
+2. iterable
+3. iterator

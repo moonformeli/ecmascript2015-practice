@@ -18,3 +18,7 @@ Generator
 3. recursive generators
 
 Promise
+1. promise basic
+2. promise.catch()
+3. promise.all()
+4. simple promise example

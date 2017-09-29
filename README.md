@@ -11,3 +11,10 @@ Symbols & Iterators
 1. Symbol Basic
 2. iterable
 3. iterator
+
+Generator
+1. generator basic
+2. yield used in an example
+3. recursive generators
+
+Promise

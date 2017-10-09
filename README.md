@@ -28,4 +28,5 @@ Proxy
 
 Map & Set
 1. Map
-2. Set
+2. Map and Array.prototype.map()
+3. Set

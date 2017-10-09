@@ -22,3 +22,10 @@ Promise
 2. promise.catch()
 3. promise.all()
 4. simple promise example
+
+Proxy
+1. proxy
+
+Map & Set
+1. Map
+2. Set

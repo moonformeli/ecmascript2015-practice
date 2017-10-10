@@ -30,3 +30,8 @@ Map & Set
 1. Map
 2. Map and Array.prototype.map()
 3. Set
+
+Class
+1. Structure of Class
+2. Static & Prototype in Class
+3. Inheritance
